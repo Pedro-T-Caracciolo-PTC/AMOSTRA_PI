@@ -1,0 +1,21 @@
+
+:root{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+canvas {
+  display: flex;
+}
+
+body
+{justify-items: center;
+  background-color: rgb(45, 37, 49);
+  }
+
+  main{padding: 20px;
+      background-color: rgb(255, 166, 50);}
+  h1{color: white;}
+
+  footer{margin: 100px;}
+  button{height: 100px;width: 300px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+ 
+            

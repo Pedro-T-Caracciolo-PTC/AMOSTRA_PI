@@ -1,0 +1,12 @@
+body{justify-items: center;
+    margin: 0;
+    align-content: center;}
+
+img{z-index: -1;
+    width: 100%;
+    position: fixed;}
+
+    main{min-height: 900px;
+        align-content: center;}
+
+    
